@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: priya1016/batch13:7
+        image: priya1016/batch13:8
         ports:
         - containerPort: 8080
 ---
